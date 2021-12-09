@@ -22,7 +22,7 @@ export default function App() {
     return (
       <p>
         Getting data from NASA right now to check whether something from space
-        is going to hit us. One moment…
+        is going to whack you in the face with its cock. One moment…
       </p>
     );
   }
